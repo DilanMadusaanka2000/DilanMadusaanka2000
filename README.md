@@ -23,3 +23,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=DilanMadusaanka2000&show_icons=true&locale=en" alt="DilanMadusaanka2000" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DilanMadusaanka2000&" alt="DilanMadusaanka2000" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=DilanMadusaanka2000&show_icons=true&locale=en&layout=compact" alt="DilanMadusaanka2000" /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DilanMadusaanka2000" alt="DilanMadusaanka2000" /></a></p>
+
